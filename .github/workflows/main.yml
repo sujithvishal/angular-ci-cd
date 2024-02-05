@@ -21,3 +21,4 @@ jobs:
           context: /
           push: true
           tags: sujith071/testrepo:latest
+          
